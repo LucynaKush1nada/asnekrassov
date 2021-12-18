@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning React & TS
 - 💞️ I want to cooperate with interesting people
 - 📫 How to reach me: a.s.nekrassov@gmail.com | nekrassovandres@yandex.ru
+- My LinkedIn: https://www.linkedin.com/in/andrew-nekrasov-743030183/
