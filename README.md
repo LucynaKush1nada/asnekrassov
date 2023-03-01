@@ -8,4 +8,4 @@
 
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=asnekrassov&theme=radical)](https://github.com/asnekrassov)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asnekrassov&layout=compact)](https://github.com/asnekrassov)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asnekrassov&layout=compact&theme=radical)](https://github.com/asnekrassov)
