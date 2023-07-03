@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asnekrassov
 - 👀 I’m interested in music, programming, sport
-- 🌱 I’m currently learning React & TS
+- 🌱 I’m Senior Web developer.
 - 💞️ I want to cooperate with interesting people
 - 📫 How to reach me: a.s.nekrassov@gmail.com | nekrassovandres@yandex.ru
 - My LinkedIn: https://www.linkedin.com/in/andrew-nekrasov-743030183/
