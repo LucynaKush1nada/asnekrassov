@@ -2,6 +2,7 @@
 - 👀 I’m interested in music, programming, sport
 - 🌱 I’m Senior Web developer.
 - Finalist, prizewinner Hackathon Digital Transformation Leaders 2023 (Moscow) - 2 place.
+- Finalist, prizewinner Hackathon Digital Transformation Leaders 2023 (Krasnodar) - 2 place.
 - 💞️ I want to cooperate with interesting people
 - 📫 How to reach me: a.s.nekrassov@gmail.com | nekrassovandres@yandex.ru
 - My LinkedIn: https://www.linkedin.com/in/andrew-nekrasov-743030183/
